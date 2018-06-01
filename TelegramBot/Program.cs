@@ -10,7 +10,7 @@ namespace TelegramBot
 {
     class Program
     {
-        private static readonly ITelegramBotClient Bot = new TelegramBotClient("508948316:AAHlXv_cOhuLyj6xERVS8ZZiwoeZZ6hPqWM");
+        private static readonly ITelegramBotClient Bot = new TelegramBotClient("YOUR_API_KEY");
 
         
 
